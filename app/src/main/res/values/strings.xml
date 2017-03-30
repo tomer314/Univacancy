@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Univacancy</string>
+    <string name="loginTitle">Login</string>
+    <string name="enterEmail">Enter Email</string>
+    <string name="bguMail">"@post.bgu.ac.il"</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login_button">Login</string>
+    <string name="notRegistered_text">Not registered?</string>
+    <string name="goRegister_button">Go Register!</string>
+    <string name="registerTitle">Register Now!</string>
+    <string-array name="universities_list">
+        <item>BGU</item>
+        <item>TAU</item>
+        <item>HUJI</item>
+        <item>Technion</item>
+    </string-array>
+</resources>
